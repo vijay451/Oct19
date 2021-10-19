@@ -1,0 +1,32 @@
+body{
+    box-sizing: border-box;
+    
+}
+.container{
+    margin-left: 450px;
+
+    margin-right: 600px;
+    padding: 100px;
+    background-color: grey;
+}
+.form{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 90%;
+}
+label{
+    font-size: larger;
+}
+.btn{
+    background-color: blue;
+    width: 70%;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+div{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
